@@ -1,0 +1,15 @@
+// Button in the Style of iOS 6
+.button {
+  background-color: #3d5c80;
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+// More will follow
