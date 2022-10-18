@@ -1,9 +1,11 @@
 // Button in the Style of iOS 6
-.button {
-  background-color: #3d5c80;
+
+.button-ios6 {
+  background: linear-gradient(0deg, #60799a 0%, #97a9bd 100%);
   border: none;
   color: white;
-  padding: 15px 30px;
+  font-weight: 1000;
+  padding: 15px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -11,5 +13,3 @@
   cursor: pointer;
   border-radius: 8px;
 }
-
-// More will follow
