@@ -2,7 +2,7 @@
 
 .button-ios6 {
   background: linear-gradient(0deg, #60799a 0%, #97a9bd 100%);
-  border: none;
+  border: 0.25px solid #4a678a;
   color: white;
   font-weight: 1000;
   padding: 15px 25px;
