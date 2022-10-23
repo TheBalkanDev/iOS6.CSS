@@ -15,7 +15,17 @@
 }
 
 .button-ios6-2 {
-
+  background: linear-gradient(0deg, #3d5c80 10%, #869bb6 90%);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
 }
 
 .buttonstack-ios6 {
